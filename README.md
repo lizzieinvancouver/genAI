@@ -5,8 +5,7 @@ https://statmodeling.stat.columbia.edu/2025/07/18/i-am-no-longer-chairing-defens
 
 The resulting lab guidelines are: https://github.com/temporalecologylab/labgit/blob/master/expectations/writing/genAI_labguidelines.pdf
 
-<><><><><><>
-IMPORTANT FOR LIZZIE
+**Important note for Lizzie: Other folders...**
 
 See also! Other places I have notes:
 
