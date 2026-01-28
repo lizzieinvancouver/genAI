@@ -45,6 +45,9 @@ I've heard people describe it well in podcasts, but can't remember which.  I thi
 
 This is a really good article. She's a computer-psycho-linguist and a leading AI critic. The point about how we are fooled/lured into believing in an intelligence by the language itself was a new angle for me and really important.
 
+## Cam's testimony at school board
+
+https://camwebb.info/files/webb_FNSBSDSB_testimony_2026-01-20.pdf
 
 ## Model behind chatGPT from Bob Carpenter (emailed 15 Oct 2025)
 
